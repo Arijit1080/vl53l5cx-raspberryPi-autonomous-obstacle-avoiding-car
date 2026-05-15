@@ -57,7 +57,7 @@ Using this information, the robot dynamically:
 # Circuit Schematic
 
 <p align="center">
-  <img src="images/circuit.png" width="850"/>
+  <img src="circuit.png" width="850"/>
 </p>
 
 <p align="center">
@@ -69,7 +69,7 @@ Using this information, the robot dynamically:
 # Process Flowchart
 
 <p align="center">
-  <img src="images/process.png" width="850"/>
+  <img src="process.png" width="850"/>
 </p>
 
 <p align="center">
